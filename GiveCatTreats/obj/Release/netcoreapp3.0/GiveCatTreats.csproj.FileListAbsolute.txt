@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.exe
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.deps.json
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.runtimeconfig.json
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.runtimeconfig.dev.json
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.dll
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\bin\Release\netcoreapp3.0\GiveCatTreats.pdb
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\obj\Release\netcoreapp3.0\GiveCatTreats.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\obj\Release\netcoreapp3.0\GiveCatTreats.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\obj\Release\netcoreapp3.0\GiveCatTreats.AssemblyInfo.cs
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\obj\Release\netcoreapp3.0\GiveCatTreats.dll
+C:\Users\Student\source\repos\GiveCatTreats\GiveCatTreats\obj\Release\netcoreapp3.0\GiveCatTreats.pdb
